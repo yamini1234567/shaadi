@@ -1,0 +1,312 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+.header{
+width: 100%;
+border: solid 0px;
+position: relative;
+
+}
+.header img{
+    height: 710px;
+    width: 1480px;
+}
+.header .list
+{
+    position: absolute;
+    top: 25px;
+    left: 1000px;
+    padding-bottom: 100px;
+    
+}
+.list ul{
+    display: flex;
+    justify-content:space-between;
+    list-style: none;
+    width: 230px;
+    height: 40px;
+   margin-top: 40px;
+}
+.list li
+{
+    border: solid 0px;
+    color: aliceblue;
+    border-radius: 10px;
+    width: 115px;
+    text-align: center;
+    padding-top: 10px;
+}
+.login
+{
+    background-color: rgba(0, 0, 0, 0.696);
+}
+.join
+{
+    background-color: rgb(49, 166, 166);
+}
+.header h1{
+   
+    margin-top: 150px;
+    color: aliceblue;
+    font-size: 50px;
+    padding: auto;
+    
+}
+
+.trademark
+{
+    border: solid rgb(255, 115, 86);
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    padding-top: 10px;
+    text-align: center;
+    background-color:rgb(255, 115, 86) ;
+   margin-left: 650px;
+}
+
+.box
+{
+    text-align: center;
+    display: flex;
+    margin-left: 180px;
+}
+.Rectangle1
+{
+    border: solid white;
+    border-width: 5px;
+    border-radius: 20px;
+    height: 550px;
+    width:350px;
+    padding-left: 20px;
+}
+.rec001
+{
+    border: solid white;
+    background-color: rgba(220, 222, 224, 0.512);
+    border-width: 5px;
+    border-radius: 20px;
+    height: 150px;
+    width:330px;
+   
+}
+
+.rec001 h4
+{
+    border: solid 0px;
+    width: 130px;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 100px;
+    padding-top: 10px;
+    background-color: rgb(70, 185, 179);
+    box-shadow: 3px 3px rgba(70, 185, 179, 0.384);
+}
+
+.rec001 h3{
+    color: rgb(228, 0, 0);
+}
+
+
+
+
+.Rectangle2
+{
+    border: solid white;
+    border-width: 5px;
+    border-radius: 20px;
+    height: 550px;
+    width:350px;
+    padding-left: 20px;
+}
+.Rectangle2 h2
+{
+    color: rgb(211, 0, 0);
+}
+.rec002
+{
+    border: solid white;
+    background-color: rgba(220, 222, 224, 0.512);
+    border-width: 5px;
+    border-radius: 20px;
+    height: 150px;
+    width:330px;
+   
+}
+
+.rec002 h4
+{
+    border: solid 0px;
+    width: 130px;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 100px;
+    padding-top: 10px;
+    background-color: rgb(70, 185, 179);
+    box-shadow: 3px 3px rgba(70, 185, 179, 0.384);
+}
+
+.rec002 h3{
+    color: rgb(228, 0, 0);
+}
+
+
+
+
+
+.Rectangle3
+{
+    border: solid white;
+    border-width: 5px;
+    border-radius: 20px;
+    height: 550px;
+    width:350px;
+    padding-left: 20px;
+}
+
+.rec003
+{
+    border: solid white;
+    background-color: rgba(220, 222, 224, 0.512);
+    border-width: 5px;
+    border-radius: 20px;
+    height: 150px;
+    width:330px;
+   
+}
+
+.rec003 h4
+{
+    border: solid 0px;
+    width: 130px;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 100px;
+    padding-top: 10px;
+    background-color: rgb(70, 185, 179);
+    box-shadow: 3px 3px rgba(70, 185, 179, 0.384);
+}
+
+.rec003 h3{
+    color: rgb(228, 0, 0);
+}
+
+
+
+.image001
+{
+    border: solid 0px;
+    height: 700px;
+    width: 1470px;
+    background-image: url(./images/prime-background-home.jpg);
+   display: flex;
+   padding-top: 200px;
+   align-content: center;
+   align-items: center;
+}
+.bgimg h1
+{
+    text-align: center;
+    color: rgb(255, 255, 255);
+   
+}
+
+
+.primeassist
+{
+    border: solid rgb(29, 232, 239);
+    border-width: 5px;
+    border-radius: 40px;
+    height: 500px;
+    width:400px;
+    background-image: url(./images/prime-home-photo1.v1_assist.jpg);
+    background-repeat: no-repeat;
+   
+}
+
+
+.primeassist1
+{
+    border: solid rgb(29, 232, 239);
+    border-width: 5px;
+    border-radius: 40px;
+    height: 500px;
+    width:400px;
+    background-image: url(./images/prime-home-photo2.v1_plus.jpg);
+    background-repeat: no-repeat;
+}
+.pa1
+{
+    padding-top: 300px;
+    color: white;
+    text-align: center;
+
+}
+
+.pa2
+{
+ background-color: black;
+ color: white;
+ text-align: center;
+ border-radius: 20px;
+ margin-top: 20px;
+ 
+}
+
+
+.h4{
+    border: solid 2px white;
+    width: 130px;
+    height: 45px;
+    border-radius: 5px;
+    display: inline-block;
+    text-align: center;
+    padding-top: 5px;
+   
+}
+
+.image002
+{
+    border: solid 0px;
+    height: 700px;
+    width: 1470px;
+    background-image: url(./images/prime-background-home.jpg);
+    
+}
+
+.bgimg
+{
+display: inline-block;
+}
+
+
+.rec1{
+    border: solid white;
+    border-width: 5px;
+    border-radius: 20px;
+    height: 350px;
+    width:600px;
+   margin-top: 50px;
+ 
+   
+}
+
+.rec1 img
+{
+    padding-left: 100px;
+}
+
+
+.rec1 p
+{
+    text-align: center;
+}
+
+
+.meet
+{
+    display: flex;
+   
+}
